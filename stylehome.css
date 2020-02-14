@@ -1,0 +1,36 @@
+body {
+   
+    background-image: url("shin.jpg");
+  }
+  .header{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    color:rgb(0, 0, 0);
+  }
+
+  ul {
+    
+    margin: 0;
+    padding: 0;
+    border-style: inset;
+    overflow: hidden;
+    background-color: #000000;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    font-style: initial;
+    text-align: left;
+    padding: 20px;
+    text-decoration: none;
+  }
+  
+ 
+
+    
